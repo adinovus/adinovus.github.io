@@ -103,10 +103,8 @@
 #u248-4
 {
 	z-index: 13;
-	width: 313px;
-	min-height: 37px;
-	line-height: 58px;
-	font-size: 48px;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 93px;

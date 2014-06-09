@@ -2,37 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://adinovus.com/images/resistor.jpg</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://adinovus.com/images/blank.gif</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://adinovus.com/images/kmr-m6.jpg</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://adinovus.com/images/loading.gif</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://adinovus.com/images/u242-5.png</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://adinovus.com/images/arow-rigt2.png</loc>
-    <lastmod>2014-06-09</lastmod>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u248-4.png</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u573.png</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/zx81_pcb.jpg</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/example3.jpg</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/best-android-apps.jpg</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u1061.png</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/location-u1083.png</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/11949891311484162594aiga_mail1svgmed-u1102.png</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/126744-simple-black-square-icon-business-phone1-u1078.png</loc>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,20 +97,38 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://adinovus.com/home2.html</loc>
-    <lastmod>2014-06-09</lastmod>
+    <loc>http://adinovus.com/home.html</loc>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://adinovus.com/untitled-3.html</loc>
-    <lastmod>2014-06-09</lastmod>
+    <loc>http://adinovus.com/projects.html</loc>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://adinovus.com/untitled-4.html</loc>
-    <lastmod>2014-06-09</lastmod>
+    <loc>http://adinovus.com/services.html</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/diy-kits.html</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/apps.html</loc>
+    <lastmod>2014-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/support-contact.html</loc>
+    <lastmod>2014-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

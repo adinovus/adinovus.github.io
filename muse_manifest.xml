@@ -1,20 +1,24 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="untitled-4.css" crc="367434866" ref="untitled-4"/>
-    <file name="index.css" crc="3933624527" ref="index"/>
-    <file name="untitled-3.css" crc="367434866" ref="untitled-3"/>
-    <file name="home2.css" crc="3931826654" ref="home2"/>
+    <file name="index.css" crc="293111533" ref="index"/>
+    <file name="home.css" crc="234500384" ref="home"/>
+    <file name="projects.css" crc="448490110" ref="projects"/>
+    <file name="diy-kits.css" crc="425020105" ref="diy-kits"/>
+    <file name="services.css" crc="265686390" ref="services"/>
+    <file name="apps.css" crc="377738004" ref="apps"/>
+    <file name="support-contact.css" crc="485268362" ref="support-contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home2:untitled-3:untitled-4"/>
-    <file name="museutils.js" crc="3865766194" ref="index:home2:untitled-3:untitled-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:projects:services:diy-kits:apps:support-contact"/>
+    <file name="museutils.js" crc="3865766194" ref="index:home:projects:services:diy-kits:apps:support-contact"/>
     <file name="webpro.js" crc="3903299128" ref="index"/>
     <file name="musewpslideshow.js" crc="138381373" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
     <file name="touchswipe.js" crc="4156838003" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:home2:untitled-3:untitled-4"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="home2"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:home:projects:services:diy-kits:apps:support-contact"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="home:projects:services:diy-kits:apps:support-contact"/>
+    <file name="pie.js" crc="3827607177" ref="projects:services"/>
   </folder>
   <folder name="images">
     <file name="resistor.jpg" crc="257343832" ref="index"/>
@@ -23,9 +27,21 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u242-5.png" crc="534585544" ref="index"/>
     <file name="arow-rigt2.png" crc="79318448" ref="index"/>
+    <file name="u248-4.png" crc="3934949073" ref="index"/>
+    <file name="u573.png" crc="212517503" ref="services"/>
+    <file name="zx81_pcb.jpg" crc="96976904" ref="services"/>
+    <file name="example3.jpg" crc="4221673334" ref="services"/>
+    <file name="best-android-apps.jpg" crc="4035844756" ref="services"/>
+    <file name="u1061.png" crc="181228547" ref="support-contact"/>
+    <file name="location-u1083.png" crc="3897846010" ref="support-contact"/>
+    <file name="11949891311484162594aiga_mail1svgmed-u1102.png" crc="3846690945" ref="support-contact"/>
+    <file name="126744-simple-black-square-icon-business-phone1-u1078.png" crc="66370733" ref="support-contact"/>
   </folder>
-  <file name="index.html" crc="4057385878" mt="1402253596149" redirect="true"/>
-  <file name="home2.html" crc="300160093" mt="1402253566731" redirect="true"/>
-  <file name="untitled-3.html" crc="3987214631" mt="1402252474159" redirect="false"/>
-  <file name="untitled-4.html" crc="238219865" mt="1402252478283" redirect="false"/>
+  <file name="index.html" crc="193202787" mt="1402286527878" redirect="true"/>
+  <file name="home.html" crc="309111757" mt="1402340380549" redirect="true"/>
+  <file name="projects.html" crc="4109756092" mt="1402340014572" redirect="true"/>
+  <file name="services.html" crc="38025772" mt="1402339704013" redirect="true"/>
+  <file name="diy-kits.html" crc="3866452896" mt="1402340464932" redirect="true"/>
+  <file name="apps.html" crc="3922218267" mt="1402340491723" redirect="true"/>
+  <file name="support-contact.html" crc="3789242395" mt="1402340533133" redirect="true"/>
 </manifest>
