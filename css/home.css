@@ -25,7 +25,7 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	position: fixed;
-	top: 0px;
+	top: -2px;
 	left: 50%;
 	margin-left: -460px;
 }
@@ -410,7 +410,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 149px;
+	margin-top: 136px;
 }
 
 #u591-3
@@ -437,7 +437,7 @@
 {
 	width: 0.01px;
 	margin-left: 18px;
-	margin-top: 69px;
+	margin-top: 78px;
 	position: relative;
 }
 

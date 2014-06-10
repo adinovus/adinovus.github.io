@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="index.css" crc="293111533" ref="index"/>
-    <file name="home.css" crc="336782186" ref="home"/>
+    <file name="home.css" crc="256614558" ref="home"/>
     <file name="projects.css" crc="4290327857" ref="projects"/>
     <file name="diy-kits.css" crc="3870385867" ref="diy-kits"/>
     <file name="apps.css" crc="3939255405" ref="apps"/>
@@ -55,7 +55,7 @@
     <file name="u1589-r-sprite.png" crc="4093578376" ref="projects"/>
   </folder>
   <file name="index.html" crc="193202787" mt="1402397105367" redirect="true"/>
-  <file name="home.html" crc="4100130169" mt="1402396964031" redirect="true"/>
+  <file name="home.html" crc="4100130169" mt="1402397663104" redirect="true"/>
   <file name="projects.html" crc="3860748689" mt="1402397416832" redirect="true"/>
   <file name="diy-kits.html" crc="53399821" mt="1402382118536" redirect="true"/>
   <file name="apps.html" crc="531969100" mt="1402382118547" redirect="true"/>
