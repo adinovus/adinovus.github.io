@@ -2,8 +2,8 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="index.css" crc="293111533" ref="index"/>
-    <file name="home.css" crc="4135777931" ref="home"/>
-    <file name="projects.css" crc="518991402" ref="projects"/>
+    <file name="home.css" crc="336782186" ref="home"/>
+    <file name="projects.css" crc="4290327857" ref="projects"/>
     <file name="diy-kits.css" crc="3870385867" ref="diy-kits"/>
     <file name="apps.css" crc="3939255405" ref="apps"/>
     <file name="docs.css" crc="367434866" ref="docs"/>
@@ -42,21 +42,21 @@
     <file name="11949891311484162594aiga_mail1svgmed-u1397.png" crc="3846690945" ref="home"/>
     <file name="126744-simple-black-square-icon-business-phone1-u1392.png" crc="66370733" ref="home"/>
     <file name="u1543-full.png" crc="3928668102" ref="projects"/>
-    <file name="u1603-4.png" crc="3903236806" ref="projects"/>
-    <file name="u1548-a-full.png" crc="4177711067" ref="projects"/>
-    <file name="u1572-full.png" crc="456312702" ref="projects"/>
-    <file name="u1572-r-full.png" crc="271917707" ref="projects"/>
-    <file name="u1565-full.png" crc="3840424034" ref="projects"/>
-    <file name="u1565-r-full.png" crc="157375728" ref="projects"/>
-    <file name="u1579-sprite.png" crc="28597177" ref="projects"/>
+    <file name="u1579-sprite.png" crc="4083866738" ref="projects"/>
     <file name="u1579-r-sprite.png" crc="4292812867" ref="projects"/>
-    <file name="u1589-full.png" crc="485599554" ref="projects"/>
-    <file name="u1589-r-full.png" crc="334561561" ref="projects"/>
-    <file name="u1605-4.png" crc="3939128329" ref="home"/>
+    <file name="u1605-4.png" crc="100361544" ref="home"/>
+    <file name="u1620-4.png" crc="377868431" ref="projects"/>
+    <file name="u1548-a-sprite.png" crc="3829581113" ref="projects"/>
+    <file name="u1572-sprite.png" crc="3829581113" ref="projects"/>
+    <file name="u1572-r-sprite.png" crc="212617346" ref="projects"/>
+    <file name="u1565-sprite.png" crc="3861008407" ref="projects"/>
+    <file name="u1565-r-sprite.png" crc="262072982" ref="projects"/>
+    <file name="u1589-sprite.png" crc="139412362" ref="projects"/>
+    <file name="u1589-r-sprite.png" crc="4093578376" ref="projects"/>
   </folder>
-  <file name="index.html" crc="193202787" mt="1402383188914" redirect="true"/>
-  <file name="home.html" crc="527650961" mt="1402391447064" redirect="true"/>
-  <file name="projects.html" crc="222546888" mt="1402391483531" redirect="true"/>
+  <file name="index.html" crc="193202787" mt="1402397105367" redirect="true"/>
+  <file name="home.html" crc="4100130169" mt="1402396964031" redirect="true"/>
+  <file name="projects.html" crc="3860748689" mt="1402397416832" redirect="true"/>
   <file name="diy-kits.html" crc="53399821" mt="1402382118536" redirect="true"/>
   <file name="apps.html" crc="531969100" mt="1402382118547" redirect="true"/>
   <file name="videos.html" crc="449500567" mt="1402382146635" redirect="false"/>
