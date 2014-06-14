@@ -11,7 +11,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 11px 13px 200px 9px;
@@ -20,14 +20,14 @@
 #u1609
 {
 	z-index: 99;
-	width: 920px;
+	width: 960px;
 	height: 98px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F6F6F6;
 	position: fixed;
 	top: -2px;
 	left: 50%;
-	margin-left: -460px;
+	margin-left: -480px;
 }
 
 #pwhatwedo
@@ -74,7 +74,7 @@
 #u930
 {
 	width: 97px;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -83,6 +83,9 @@
 {
 	width: 97px;
 	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	text-align: center;
 	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -90,6 +93,36 @@
 	margin-right: -10000px;
 	top: 8px;
 	left: 0px;
+}
+
+#u930:hover #u933-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u930:active #u933-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u930.MuseMenuActive #u933-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u930.MuseMenuActive #u933-4 p
+{
+	color: #000000;
+	visibility: inherit;
 }
 
 #u948
@@ -104,7 +137,7 @@
 #u949
 {
 	width: 97px;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -133,7 +166,7 @@
 #u913
 {
 	width: 97px;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -162,7 +195,7 @@
 #u942
 {
 	width: 97px;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -191,7 +224,7 @@
 #u937
 {
 	width: 97px;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -384,7 +417,7 @@
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 626px;
+	left: 636px;
 }
 
 #u613-3
