@@ -1,6 +1,6 @@
 .html
 {
-	background-color: #F4ECEC;
+	background-color: #F6F6F6;
 }
 
 #page
@@ -11,7 +11,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #F4ECEC;
+	background-color: #F6F6F6;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 99px 78px 62px 270px;
@@ -19,7 +19,7 @@
 
 #u1918
 {
-	z-index: 2;
+	z-index: 75;
 	width: 957px;
 	height: 37px;
 	top: 0px;
@@ -493,7 +493,7 @@
 
 #menuu1761
 {
-	z-index: 3;
+	z-index: 2;
 	width: 197px;
 	top: 110px;
 	left: 50%;
