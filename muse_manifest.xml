@@ -3,25 +3,25 @@
     <file name="site_global.css" crc="417434784"/>
     <file name="index.css" crc="293111533" ref="index"/>
     <file name="home.css" crc="122933373" ref="home"/>
-    <file name="projects.css" crc="80274592" ref="projects"/>
+    <file name="projects.css" crc="4068792941" ref="projects"/>
     <file name="diy-kits.css" crc="3870385867" ref="diy-kits"/>
     <file name="apps.css" crc="3939255405" ref="apps"/>
     <file name="docs.css" crc="367434866" ref="docs"/>
     <file name="training.css" crc="367434866" ref="training"/>
     <file name="videos.css" crc="367434866" ref="videos"/>
-    <file name="master_b-master.css" crc="3800358467" ref="ieee:iot:arduino:android:automotive:embedded-system:dsp:wireless:vlsi:communication:projects:raspberry-pi:robotics"/>
-    <file name="ieee.css" crc="4017276844" ref="ieee"/>
-    <file name="iot.css" crc="4074552514" ref="iot"/>
-    <file name="arduino.css" crc="4074552514" ref="arduino"/>
-    <file name="android.css" crc="4074552514" ref="android"/>
-    <file name="automotive.css" crc="4074552514" ref="automotive"/>
-    <file name="embedded-system.css" crc="4074552514" ref="embedded-system"/>
-    <file name="dsp.css" crc="3888162665" ref="dsp"/>
-    <file name="wireless.css" crc="216415821" ref="wireless"/>
-    <file name="vlsi.css" crc="4074552514" ref="vlsi"/>
-    <file name="communication.css" crc="3857171599" ref="communication"/>
-    <file name="raspberry-pi.css" crc="3802920400" ref="raspberry-pi"/>
-    <file name="robotics.css" crc="407034849" ref="robotics"/>
+    <file name="master_b-master.css" crc="62626648" ref="ieee:iot:arduino:android:automotive:embedded-system:dsp:wireless:vlsi:communication:projects:raspberry-pi:robotics"/>
+    <file name="ieee.css" crc="4223477332" ref="ieee"/>
+    <file name="iot.css" crc="4059571575" ref="iot"/>
+    <file name="arduino.css" crc="4059571575" ref="arduino"/>
+    <file name="android.css" crc="4059571575" ref="android"/>
+    <file name="automotive.css" crc="4059571575" ref="automotive"/>
+    <file name="embedded-system.css" crc="4059571575" ref="embedded-system"/>
+    <file name="dsp.css" crc="374803705" ref="dsp"/>
+    <file name="wireless.css" crc="4159134521" ref="wireless"/>
+    <file name="vlsi.css" crc="4059571575" ref="vlsi"/>
+    <file name="communication.css" crc="3764223489" ref="communication"/>
+    <file name="raspberry-pi.css" crc="116746753" ref="raspberry-pi"/>
+    <file name="robotics.css" crc="527140431" ref="robotics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:projects:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
@@ -72,25 +72,31 @@
     <file name="u2267-4.png" crc="377868431" ref="projects"/>
     <file name="u2361-4.png" crc="377868431" ref="robotics"/>
     <file name="u2455-4.png" crc="377868431" ref="ieee"/>
+    <file name="u1779-full.png" crc="474873587" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
+    <file name="u1779-r-full.png" crc="435577935" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
+    <file name="u1779-m-full.png" crc="3958613030" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
+    <file name="u1937-full.png" crc="64354838" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
+    <file name="u1937-r-full.png" crc="4133116930" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
+    <file name="u1937-m-full.png" crc="147185510" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino"/>
   </folder>
   <file name="index.html" crc="419989855" mt="1402742308719" redirect="true"/>
   <file name="home.html" crc="4248885000" mt="1402742308830" redirect="true"/>
-  <file name="projects.html" crc="372241385" mt="1402748424549" redirect="true"/>
+  <file name="projects.html" crc="4166374525" mt="1402749452369" redirect="true"/>
   <file name="diy-kits.html" crc="3790211841" mt="1402742308848" redirect="true"/>
   <file name="apps.html" crc="3984184036" mt="1402742308865" redirect="true"/>
   <file name="videos.html" crc="3922445722" mt="1402742215643" redirect="false"/>
   <file name="training.html" crc="4287060104" mt="1402742215649" redirect="false"/>
   <file name="docs.html" crc="506254541" mt="1402742215655" redirect="false"/>
-  <file name="robotics.html" crc="4104547836" mt="1402748442652" redirect="true"/>
-  <file name="communication.html" crc="185647764" mt="1402748384264" redirect="true"/>
-  <file name="raspberry-pi.html" crc="4142535579" mt="1402748384272" redirect="true"/>
-  <file name="android.html" crc="337506722" mt="1402748384277" redirect="true"/>
-  <file name="dsp.html" crc="3886641288" mt="1402748384282" redirect="true"/>
-  <file name="automotive.html" crc="514612830" mt="1402748384289" redirect="true"/>
-  <file name="embedded-system.html" crc="59503780" mt="1402748384296" redirect="true"/>
-  <file name="wireless.html" crc="196167744" mt="1402748384303" redirect="true"/>
-  <file name="vlsi.html" crc="4698093" mt="1402748384308" redirect="true"/>
-  <file name="ieee.html" crc="226132704" mt="1402748458070" redirect="true"/>
-  <file name="iot.html" crc="3841018745" mt="1402748384323" redirect="true"/>
-  <file name="arduino.html" crc="4217061149" mt="1402748384328" redirect="true"/>
+  <file name="robotics.html" crc="4051720444" mt="1402749452447" redirect="true"/>
+  <file name="communication.html" crc="4157087688" mt="1402749452457" redirect="true"/>
+  <file name="raspberry-pi.html" crc="86646154" mt="1402749452467" redirect="true"/>
+  <file name="android.html" crc="4009500970" mt="1402749452475" redirect="true"/>
+  <file name="dsp.html" crc="3759862731" mt="1402749452485" redirect="true"/>
+  <file name="automotive.html" crc="50991837" mt="1402749452491" redirect="true"/>
+  <file name="embedded-system.html" crc="254722459" mt="1402749452501" redirect="true"/>
+  <file name="wireless.html" crc="3910797352" mt="1402749452510" redirect="true"/>
+  <file name="vlsi.html" crc="4113976770" mt="1402749452521" redirect="true"/>
+  <file name="ieee.html" crc="232056491" mt="1402749452529" redirect="true"/>
+  <file name="iot.html" crc="109297406" mt="1402749452538" redirect="true"/>
+  <file name="arduino.html" crc="146457139" mt="1402749452546" redirect="true"/>
 </manifest>
