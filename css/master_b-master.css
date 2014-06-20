@@ -220,6 +220,14 @@
 	position: relative;
 }
 
+#pu3128:hover #u3128,#pu3128:active #u3128,#pu3128.MuseMenuActive #u3128,#pu3149:hover #u3149,#pu3149:active #u3149,#pu3149.MuseMenuActive #u3149,#pu3163:hover #u3163,#pu3163:active #u3163,#pu3163.MuseMenuActive #u3163,#pu3482:hover #u3482,#pu3482.MuseMenuActive #u3482,#pu3545:hover #u3545,#pu3545.MuseMenuActive #u3545,#pu3538:hover #u3538,#pu3538.MuseMenuActive #u3538,#pu3154:hover #u3154,#pu3154:active #u3154,#pu3154.MuseMenuActive #u3154
+{
+	background: none;
+	-pie-background: none;
+	border-style: none;
+	position: relative;
+}
+
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
@@ -401,8 +409,21 @@
 	background-position: left top;
 }
 
-#u3127,#u3146,#u3148,#u3410,#u3428,#u3421,#u3160,#u3162,#u3481,#u3482,#u3544,#u3545,#u3537,#u3538,#u3153,#u1776,#u1779,#u1762,#u1763,#u1790,#u1793,#u1783,#u1786,#u1769,#u1770,#u1804,#u1805,#u1934,#u1937,#u1927,#u1930,#u1920,#u1923,#u1941,#u1944
+#u3127,#u3146,#u3148,#u3410,#u3428,#u3421,#u3160,#u3162,#u3481,#u3482,#u3544,#u3545,#u3537,#u3538,#u3153,#u1776,#u1762,#u1790,#u1783,#u1769,#u1804,#u1934,#u1927,#u1920,#u1941
 {
+	position: relative;
+}
+
+#u1779,#u1763,#u1793,#u1786,#u1770,#u1805,#u1937,#u1930,#u1923,#u1944
+{
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	-khtml-border-radius: 14px;
+	border-radius: 14px;
+	-pie-box-shadow: 6px 5px 11px #939393;
+	-moz-box-shadow: 6px 5px 11px rgba(40, 40, 40, 0.5);
+	-webkit-box-shadow: 6px 5px 11px -1px rgba(40, 40, 40, 0.5);
+	box-shadow: 6px 5px 11px rgba(40, 40, 40, 0.5);
 	position: relative;
 }
 
@@ -441,11 +462,19 @@
 	position: relative;
 }
 
-#pu3128:hover #u3128,#pu3128:active #u3128,#pu3128.MuseMenuActive #u3128,#pu3149:hover #u3149,#pu3149:active #u3149,#pu3149.MuseMenuActive #u3149,#pu3163:hover #u3163,#pu3163:active #u3163,#pu3163.MuseMenuActive #u3163,#pu3482:hover #u3482,#pu3482.MuseMenuActive #u3482,#pu3545:hover #u3545,#pu3545.MuseMenuActive #u3545,#pu3538:hover #u3538,#pu3538.MuseMenuActive #u3538,#pu3154:hover #u3154,#pu3154:active #u3154,#pu3154.MuseMenuActive #u3154,#pu1779:hover #u1779,#pu1779:active #u1779,#pu1779.MuseMenuActive #u1779,#pu1763:hover #u1763,#pu1763:active #u1763,#pu1763.MuseMenuActive #u1763,#pu1793:hover #u1793,#pu1793:active #u1793,#pu1793.MuseMenuActive #u1793,#pu1786:hover #u1786,#pu1786:active #u1786,#pu1786.MuseMenuActive #u1786,#pu1770:hover #u1770,#pu1770:active #u1770,#pu1770.MuseMenuActive #u1770,#pu1805:hover #u1805,#pu1805:active #u1805,#pu1805.MuseMenuActive #u1805,#pu1937:hover #u1937,#pu1937:active #u1937,#pu1937.MuseMenuActive #u1937,#pu1930:hover #u1930,#pu1930:active #u1930,#pu1930.MuseMenuActive #u1930,#pu1923:hover #u1923,#pu1923:active #u1923,#pu1923.MuseMenuActive #u1923,#pu1944:hover #u1944,#pu1944:active #u1944,#pu1944.MuseMenuActive #u1944
+#pu1779:hover #u1779,#pu1779:active #u1779,#pu1779.MuseMenuActive #u1779,#pu1763:hover #u1763,#pu1763:active #u1763,#pu1763.MuseMenuActive #u1763,#pu1793:hover #u1793,#pu1793:active #u1793,#pu1793.MuseMenuActive #u1793,#pu1786:hover #u1786,#pu1786:active #u1786,#pu1786.MuseMenuActive #u1786,#pu1770:hover #u1770,#pu1770:active #u1770,#pu1770.MuseMenuActive #u1770,#pu1805:hover #u1805,#pu1805:active #u1805,#pu1805.MuseMenuActive #u1805,#pu1937:hover #u1937,#pu1937:active #u1937,#pu1937.MuseMenuActive #u1937,#pu1930:hover #u1930,#pu1930:active #u1930,#pu1930.MuseMenuActive #u1930,#pu1923:hover #u1923,#pu1923:active #u1923,#pu1923.MuseMenuActive #u1923,#pu1944:hover #u1944,#pu1944:active #u1944,#pu1944.MuseMenuActive #u1944
 {
 	background: none;
 	-pie-background: none;
 	border-style: none;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	-khtml-border-radius: 14px;
+	border-radius: 14px;
+	-pie-box-shadow: 6px 5px 11px #939393;
+	-moz-box-shadow: 6px 5px 11px rgba(40, 40, 40, 0.5);
+	-webkit-box-shadow: 6px 5px 11px -1px rgba(40, 40, 40, 0.5);
+	box-shadow: 6px 5px 11px rgba(40, 40, 40, 0.5);
 	position: relative;
 }
 

@@ -1,20 +1,41 @@
 .html
 {
-	background-color: #FEFEFE;
+	background-color: #7F7F7F;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 438px;
-	background-image: none;
-	border-style: none;
-	border-color: #000000;
-	background-color: #FEFEFE;
-	padding-bottom: 62px;
+	width: 962px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+._page.f3s_top
+{
+	width: 962px;
+	background-image: url("../images/page-sprite7.png");
+	overflow: hidden;
+	height: 209px;
+	background-position: left top;
+}
+
+._page.f3s_mid
+{
+	background-image: url("../images/page-sprite7.png");
+	overflow: visible;
+	background-position: -962px top;
+	width: 962px;
+	min-height: 84px;
+}
+
+._page.f3s_bot
+{
+	width: 962px;
+	background-image: url("../images/page-sprite7.png");
+	overflow: visible;
+	height: 209px;
+	background-position: -1924px top;
 }
 
 #u3233
@@ -22,7 +43,7 @@
 	z-index: 103;
 	width: 920px;
 	height: 20px;
-	top: 0px;
+	top: 1px;
 	left: 50%;
 	margin-left: -460px;
 }
@@ -31,7 +52,7 @@
 {
 	z-index: 104;
 	width: 920px;
-	top: 17px;
+	top: 18px;
 	left: 50%;
 	margin-left: -460px;
 }
@@ -46,7 +67,7 @@
 {
 	z-index: 2;
 	width: 197px;
-	top: 110px;
+	top: 111px;
 	left: 50%;
 	margin-left: -450px;
 }
@@ -367,7 +388,7 @@
 {
 	z-index: 105;
 	width: 97px;
-	top: 15px;
+	top: 16px;
 	left: 50%;
 	margin-left: -437px;
 }
@@ -382,7 +403,7 @@
 {
 	z-index: 107;
 	width: 320px;
-	top: 10px;
+	top: 11px;
 	left: 50%;
 	margin-left: -340px;
 }
@@ -390,10 +411,11 @@
 #pu1970-4
 {
 	width: 0.01px;
+	margin-bottom: -146px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 99px;
-	left: 270px;
+	margin-top: -109px;
+	left: 271px;
 }
 
 #u1970-4
@@ -403,6 +425,7 @@
 	min-height: 28px;
 	line-height: 29px;
 	font-size: 24px;
+	font-weight: bold;
 	position: relative;
 }
 
@@ -419,14 +442,19 @@
 #u1971-2,#u1971-4,#u1971-6,#u1971-8,#u1971-10,#u1971-12,#u1971-14
 {
 	font-size: 18px;
-	line-height: 22px;
+	line-height: 27px;
+}
+
+#u1971-15
+{
+	line-height: 21px;
 }
 
 #menuu3126
 {
 	z-index: 109;
 	width: 334px;
-	top: 58px;
+	top: 59px;
 	left: 50%;
 	margin-left: 80px;
 }
@@ -947,7 +975,7 @@
 
 body
 {
-	padding-top: 36px;
+	padding-top: 35px;
 	padding-bottom: 36px;
 }
 
