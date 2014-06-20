@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="index.css" crc="4238082677" ref="index"/>
-    <file name="home.css" crc="125727160" ref="home"/>
+    <file name="home.css" crc="3761778778" ref="home"/>
     <file name="projects.css" crc="4270659421" ref="projects"/>
     <file name="diy-kits.css" crc="74834304" ref="diy-kits"/>
     <file name="apps.css" crc="4205803212" ref="apps"/>
@@ -53,7 +53,6 @@
     <file name="u573.png" crc="212517503" ref="home"/>
     <file name="zx81_pcb.jpg" crc="96976904" ref="home"/>
     <file name="example3.jpg" crc="4221673334" ref="home"/>
-    <file name="mobile-app-developer.jpg" crc="3884068888" ref="home"/>
     <file name="u1405.png" crc="4004576455" ref="home"/>
     <file name="video-button.jpg" crc="4139124726" ref="home"/>
     <file name="group-study.jpg" crc="4218505835" ref="home"/>
@@ -68,20 +67,20 @@
     <file name="u3295-full.png" crc="3815837411" ref="projects:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs"/>
     <file name="logo final.png" crc="4061359087" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
     <file name="name blue.png" crc="3837388632" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3128-r-full.png" crc="3863549604" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3128-r-full.png" crc="3863549604" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
     <file name="u3128-m-full.png" crc="4213392504" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3149-r-full.png" crc="3880486306" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3149-m-full.png" crc="509761494" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3411-full.png" crc="425682001" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3411-r-full.png" crc="4055833266" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3149-r-full.png" crc="3880486306" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3149-m-full.png" crc="509761494" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3411-full.png" crc="425682001" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3411-r-full.png" crc="4055833266" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
     <file name="u3411-a-full.png" crc="4146247254" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3163-r-full.png" crc="98854845" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3163-m-full.png" crc="259679724" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3482-full.png" crc="347064722" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3482-r-full.png" crc="3878709978" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3163-r-full.png" crc="98854845" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3163-m-full.png" crc="259679724" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3482-full.png" crc="347064722" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3482-r-full.png" crc="3878709978" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
     <file name="u3482-a-full.png" crc="338972100" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3154-r-full.png" crc="519307051" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
-    <file name="u3154-m-full.png" crc="4068015500" ref="projects:home:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3154-r-full.png" crc="519307051" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="u3154-m-full.png" crc="4068015500" ref="projects:diy-kits:videos:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:apps:training:docs:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
     <file name="u1930-full.png" crc="3843699504" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-r-full.png" crc="4099397334" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-m-full.png" crc="4110029382" ref="projects:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
@@ -91,9 +90,8 @@
     <file name="embedded-course-microcontroller-kit.jpg" crc="4271452739" ref="diy-kits"/>
     <file name="8051.gif" crc="191170389" ref="diy-kits"/>
     <file name="screenshot 2014-06-16 235040.jpg" crc="53869646" ref="videos"/>
-    <file name="page-sprite.png" crc="233764233" ref="index"/>
+    <file name="page-sprite.png" crc="3863491014" ref="index:home"/>
     <file name="page-sprite2.png" crc="3780280398" ref="projects:diy-kits:raspberry-pi:wireless:arduino:portable-lift:pic:rf-module"/>
-    <file name="page-sprite3.png" crc="3863491014" ref="home"/>
     <file name="u3736-full.png" crc="84383232" ref="home"/>
     <file name="4606646420.gif" crc="350643499" ref="home"/>
     <file name="twitter_circle_black-512.png" crc="107459666" ref="home"/>
@@ -113,9 +111,21 @@
     <file name="page-sprite8.png" crc="338457027" ref="dtmf-decoder:ir-obstacle-detector"/>
     <file name="dtmf.jpg" crc="324816989" ref="dtmf-decoder"/>
     <file name="ir.jpg" crc="4182408873" ref="ir-obstacle-detector"/>
+    <file name="u4194-a-full.png" crc="3863549604" ref="home"/>
+    <file name="u4224-r-full.png" crc="3880486306" ref="home"/>
+    <file name="u4224-m-full.png" crc="509761494" ref="home"/>
+    <file name="u4211-full.png" crc="425682001" ref="home"/>
+    <file name="u4211-r-full.png" crc="4055833266" ref="home"/>
+    <file name="u4159-r-full.png" crc="98854845" ref="home"/>
+    <file name="u4159-m-full.png" crc="259679724" ref="home"/>
+    <file name="u4182-full.png" crc="347064722" ref="home"/>
+    <file name="u4182-r-full.png" crc="3878709978" ref="home"/>
+    <file name="u4189-r-full.png" crc="519307051" ref="home"/>
+    <file name="u4189-m-full.png" crc="4068015500" ref="home"/>
+    <file name="mobile-app-developer-1.jpg" crc="3884068888" ref="home"/>
   </folder>
   <file name="index.html" crc="4226819615" mt="1403157917481" redirect="true"/>
-  <file name="home.html" crc="526814346" mt="1403241167803" redirect="true"/>
+  <file name="home.html" crc="3901356551" mt="1403241802818" redirect="true"/>
   <file name="projects.html" crc="306350750" mt="1403158119442" redirect="true"/>
   <file name="diy-kits.html" crc="4103105652" mt="1403163778494" redirect="true"/>
   <file name="apps.html" crc="4118041016" mt="1403164112487" redirect="true"/>

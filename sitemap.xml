@@ -61,12 +61,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://adinovus.com/images/mobile-app-developer.jpg</loc>
-    <lastmod>2014-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://adinovus.com/images/u1405.png</loc>
     <lastmod>2014-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,12 +295,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://adinovus.com/images/page-sprite3.png</loc>
-    <lastmod>2014-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://adinovus.com/images/u3736-full.png</loc>
     <lastmod>2014-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -416,6 +404,78 @@
   </url>
   <url>
     <loc>http://adinovus.com/images/ir.jpg</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4194-a-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4224-r-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4224-m-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4211-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4211-r-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4159-r-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4159-m-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4182-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4182-r-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4189-r-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/u4189-m-full.png</loc>
+    <lastmod>2014-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adinovus.com/images/mobile-app-developer-1.jpg</loc>
     <lastmod>2014-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
