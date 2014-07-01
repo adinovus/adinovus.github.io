@@ -1,47 +1,20 @@
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #7F7F7F;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
+	width: 710px;
+	min-height: 408px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #7F7F7F;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-._page.f3s_top
-{
-	width: 960px;
-	background-image: url("../images/page-sprite.png");
-	overflow: hidden;
-	height: 209px;
-	background-position: left top;
-}
-
-._page.f3s_mid
-{
-	background-image: url("../images/page-sprite.png");
-	overflow: visible;
-	background-position: -960px top;
-	width: 960px;
-	min-height: 182px;
-}
-
-._page.f3s_bot
-{
-	width: 960px;
-	background-image: url("../images/page-sprite.png");
-	overflow: visible;
-	height: 209px;
-	background-position: -1920px top;
-}
-
-#page_position_content
-{
-	margin-top: -140px;
-	margin-bottom: -28px;
+	padding: 69px 95px 69px 155px;
 }
 
 #slideshowu69
@@ -49,7 +22,6 @@
 	z-index: 2;
 	width: 0.01px;
 	height: 0px;
-	margin-left: 155px;
 	position: relative;
 }
 
@@ -111,21 +83,14 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#pu242-5
-{
-	width: 0.01px;
-	margin-left: 243px;
-	margin-top: 58px;
-	position: relative;
-}
-
 #u242-5
 {
 	z-index: 8;
 	display: block;
 	vertical-align: top;
+	margin-left: 92px;
+	margin-top: 57px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u248-4
@@ -133,18 +98,18 @@
 	z-index: 13;
 	display: block;
 	vertical-align: top;
+	margin-left: 234px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 93px;
-	left: 200px;
 }
 
 #u280
 {
 	z-index: 17;
 	width: 106px;
-	margin-left: 433px;
-	margin-top: 35px;
+	margin-left: 278px;
+	margin-top: 81px;
 	position: relative;
 }
 
