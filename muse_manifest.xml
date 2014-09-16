@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410889633417">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410890591807">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="3818926226" ref="index"/>
+    <file name="index.css" crc="4146110980" ref="index"/>
     <file name="master_c-master.css" crc="4160718395" ref="ir-obstacle-detector:dtmf-decoder:pickit:rf-module:diy-kits"/>
     <file name="master_b-master.css" crc="456287226" ref="raspberry-pi:communication:android:robotics:iot:arduino:vlsi:ieee:wireless:embedded-system:pic:dsp:automotive"/>
     <file name="master_d-master.css" crc="247762354" ref="training:contact:docs:videos:apps:portable-lift:wireless:iot:communication:embedded-system:pic:robotics:automotive:dsp:vlsi:raspberry-pi:android:arduino:ieee"/>
@@ -85,7 +85,7 @@
     <file name="u1763-a-full.png" crc="4116595452" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-a-full.png" crc="529762934" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
   </folder>
-  <file name="index.html" crc="3941232340" mt="1410889570172" redirect="true"/>
+  <file name="index.html" crc="337049256" mt="1410890380468" redirect="true"/>
   <file name="diy-kits.html" crc="410191708" mt="1410889592569" redirect="true"/>
   <file name="apps.html" crc="4138350369" mt="1410889570119" redirect="true"/>
   <file name="videos.html" crc="4220472202" mt="1410889570107" redirect="true"/>
