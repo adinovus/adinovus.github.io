@@ -1,7 +1,7 @@
 .version.arduino /* version checker */
 {
-	color: #0000E8;
-	background-color: #1E501C;
+	color: #000004;
+	background-color: #51E06A;
 }
 
 .html
@@ -79,8 +79,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659
@@ -605,8 +605,8 @@
 	z-index: 168;
 	width: 217px;
 	min-height: 52px;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 }

@@ -1,7 +1,7 @@
 .version.automotive /* version checker */
 {
-	color: #000014;
-	background-color: #586994;
+	color: #000003;
+	background-color: #175BBB;
 }
 
 .html
@@ -78,8 +78,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659

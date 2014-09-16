@@ -1,7 +1,7 @@
 .version.robotics /* version checker */
 {
-	color: #0000F7;
-	background-color: #42AAAC;
+	color: #00000F;
+	background-color: #9BE7D7;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 663.9849999999999px;
+	min-height: 663.9849999999994px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -79,8 +79,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659
@@ -607,8 +607,8 @@
 	z-index: 168;
 	width: 160px;
 	min-height: 31px;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 }

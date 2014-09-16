@@ -1,7 +1,7 @@
 .version.training /* version checker */
 {
-	color: #000018;
-	background-color: #4662BF;
+	color: #0000E7;
+	background-color: #B1D6BB;
 }
 
 .html
@@ -79,8 +79,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659
@@ -313,8 +313,8 @@
 	z-index: 62;
 	width: 596px;
 	min-height: 44px;
-	line-height: 32px;
 	font-size: 27px;
+	line-height: 32px;
 	margin-left: 182px;
 	margin-top: 31px;
 	position: relative;

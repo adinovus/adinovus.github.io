@@ -1,7 +1,7 @@
 .version.apps /* version checker */
 {
-	color: #00001F;
-	background-color: #18DB25;
+	color: #0000E0;
+	background-color: #EF6F21;
 }
 
 .html
@@ -85,8 +85,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659
@@ -319,8 +319,8 @@
 	z-index: 62;
 	width: 596px;
 	min-height: 44px;
-	line-height: 32px;
 	font-size: 27px;
+	line-height: 32px;
 	margin-left: 198px;
 	margin-top: 90px;
 	position: relative;

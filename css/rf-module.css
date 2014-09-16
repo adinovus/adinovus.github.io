@@ -1,7 +1,7 @@
 .version.rf_module /* version checker */
 {
-	color: #0000EA;
-	background-color: #D77529;
+	color: #000010;
+	background-color: #91F844;
 }
 
 .html
@@ -42,6 +42,11 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: -2px;
+}
+
+#u5585_img
+{
+	padding-right: 1px;
 }
 
 #u5506
@@ -295,11 +300,11 @@
 #u5495
 {
 	z-index: 5;
-	width: 180px;
+	width: 181px;
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
-	padding: 14px 10px 12.25px 9px;
+	padding: 14px 9px 12.25px;
 }
 
 #u5502-4
@@ -563,8 +568,8 @@
 	z-index: 144;
 	width: 316px;
 	min-height: 28px;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 }

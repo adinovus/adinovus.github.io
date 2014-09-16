@@ -1,7 +1,7 @@
 .version.ieee /* version checker */
 {
-	color: #00001E;
-	background-color: #D8F30C;
+	color: #0000E3;
+	background-color: #FCAAE6;
 }
 
 .html
@@ -78,8 +78,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 23px;
+	margin-top: 15px;
+	left: 22px;
 }
 
 #u5659
@@ -596,6 +596,7 @@
 #pu1968-4
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	margin-left: 294px;
@@ -606,8 +607,8 @@
 	z-index: 168;
 	width: 163px;
 	min-height: 41px;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-weight: bold;
 	position: relative;
 }

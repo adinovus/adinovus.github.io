@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FC;
-	background-color: #A7C3EB;
+	color: #0000E3;
+	background-color: #A03092;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1127.9000000000133px;
+	min-height: 1127.900000000013px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -675,9 +675,9 @@
 {
 	width: 293px;
 	min-height: 22px;
-	line-height: 22px;
-	font-size: 18px;
 	color: #000000;
+	font-size: 18px;
+	line-height: 22px;
 	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -754,9 +754,9 @@
 {
 	width: 293px;
 	min-height: 22px;
-	line-height: 22px;
-	font-size: 18px;
 	color: #000000;
+	font-size: 18px;
+	line-height: 22px;
 	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;

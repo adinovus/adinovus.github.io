@@ -1,7 +1,7 @@
 .version.docs /* version checker */
 {
-	color: #000002;
-	background-color: #325D20;
+	color: #000007;
+	background-color: #D08F7E;
 }
 
 .html
@@ -66,8 +66,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: -20px;
-	left: 12px;
+	margin-top: -21px;
+	left: 11px;
 }
 
 #u5659
