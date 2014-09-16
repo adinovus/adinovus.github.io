@@ -1,4 +1,58 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410867088600">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410867880360">
+  <folder name="phone">
+    <folder name="css">
+      <file name="rf-module.css" crc="4140583761" ref="phone>rf-module"/>
+      <file name="automotive.css" crc="3862112456" ref="phone>automotive"/>
+      <file name="android.css" crc="3862112456" ref="phone>android"/>
+      <file name="iot.css" crc="3862112456" ref="phone>iot"/>
+      <file name="ir-obstacle-detector.css" crc="4140583761" ref="phone>ir-obstacle-detector"/>
+      <file name="portable-lift.css" crc="377498034" ref="phone>portable-lift"/>
+      <file name="robotics.css" crc="3862112456" ref="phone>robotics"/>
+      <file name="raspberry-pi.css" crc="3862112456" ref="phone>raspberry-pi"/>
+      <file name="apps.css" crc="377498034" ref="phone>apps"/>
+      <file name="training.css" crc="377498034" ref="phone>training"/>
+      <file name="pickit.css" crc="4140583761" ref="phone>pickit"/>
+      <file name="diy-kits.css" crc="4140583761" ref="phone>diy-kits"/>
+      <file name="index.css" crc="481029881" ref="phone>index"/>
+      <file name="dsp.css" crc="3862112456" ref="phone>dsp"/>
+      <file name="videos.css" crc="377498034" ref="phone>videos"/>
+      <file name="vlsi.css" crc="3862112456" ref="phone>vlsi"/>
+      <file name="communication.css" crc="3862112456" ref="phone>communication"/>
+      <file name="pic.css" crc="3862112456" ref="phone>pic"/>
+      <file name="docs.css" crc="377498034" ref="phone>docs"/>
+      <file name="wireless.css" crc="3862112456" ref="phone>wireless"/>
+      <file name="contact.css" crc="377498034" ref="phone>contact"/>
+      <file name="dtmf-decoder.css" crc="4140583761" ref="phone>dtmf-decoder"/>
+      <file name="embedded-system.css" crc="3862112456" ref="phone>embedded-system"/>
+      <file name="ieee.css" crc="3862112456" ref="phone>ieee"/>
+      <file name="arduino.css" crc="3862112456" ref="phone>arduino"/>
+    </folder>
+    <file name="index.html" crc="4026521578" mt="1410867586192" redirect="true"/>
+    <file name="diy-kits.html" crc="257413404" mt="1410867501992" redirect="false"/>
+    <file name="pickit.html" crc="460408349" mt="1410867502122" redirect="false"/>
+    <file name="rf-module.html" crc="3886916642" mt="1410867502248" redirect="false"/>
+    <file name="dtmf-decoder.html" crc="151677743" mt="1410867502377" redirect="false"/>
+    <file name="ir-obstacle-detector.html" crc="245453386" mt="1410867502506" redirect="false"/>
+    <file name="apps.html" crc="3766797454" mt="1410867502635" redirect="false"/>
+    <file name="videos.html" crc="4165101282" mt="1410867502782" redirect="false"/>
+    <file name="portable-lift.html" crc="4031644988" mt="1410867502909" redirect="false"/>
+    <file name="training.html" crc="376674161" mt="1410867503039" redirect="false"/>
+    <file name="docs.html" crc="458052341" mt="1410867503169" redirect="false"/>
+    <file name="contact.html" crc="219520181" mt="1410867503301" redirect="false"/>
+    <file name="robotics.html" crc="163679887" mt="1410867503428" redirect="false"/>
+    <file name="communication.html" crc="36135249" mt="1410867503579" redirect="false"/>
+    <file name="vlsi.html" crc="4118849763" mt="1410867503708" redirect="false"/>
+    <file name="wireless.html" crc="250598420" mt="1410867503837" redirect="false"/>
+    <file name="embedded-system.html" crc="270687051" mt="1410867503965" redirect="false"/>
+    <file name="automotive.html" crc="76486686" mt="1410867504116" redirect="false"/>
+    <file name="dsp.html" crc="4063689642" mt="1410867504247" redirect="false"/>
+    <file name="android.html" crc="4202671254" mt="1410867504383" redirect="false"/>
+    <file name="raspberry-pi.html" crc="4037089503" mt="1410867504516" redirect="false"/>
+    <file name="ieee.html" crc="362877443" mt="1410867504657" redirect="false"/>
+    <file name="iot.html" crc="3936283703" mt="1410867504785" redirect="false"/>
+    <file name="arduino.html" crc="310349742" mt="1410867504917" redirect="false"/>
+    <file name="pic.html" crc="60031833" mt="1410867505046" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="4238853099" ref="index"/>
@@ -19,7 +73,7 @@
     <file name="vlsi.css" crc="341338516" ref="vlsi"/>
     <file name="dtmf-decoder.css" crc="355746067" ref="dtmf-decoder"/>
     <file name="ieee.css" crc="517534476" ref="ieee"/>
-    <file name="wireless.css" crc="343346470" ref="wireless"/>
+    <file name="wireless.css" crc="4263737903" ref="wireless"/>
     <file name="embedded-system.css" crc="341338516" ref="embedded-system"/>
     <file name="apps.css" crc="521722661" ref="apps"/>
     <file name="pic.css" crc="129428921" ref="pic"/>
@@ -31,16 +85,17 @@
     <file name="portable-lift.css" crc="492514592" ref="portable-lift"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact"/>
-    <file name="museutils.js" crc="212726984" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact:phone>index:phone>diy-kits:phone>pickit:phone>rf-module:phone>dtmf-decoder:phone>ir-obstacle-detector:phone>apps:phone>videos:phone>portable-lift:phone>training:phone>docs:phone>contact:phone>robotics:phone>communication:phone>vlsi:phone>wireless:phone>embedded-system:phone>automotive:phone>dsp:phone>android:phone>raspberry-pi:phone>ieee:phone>iot:phone>arduino:phone>pic"/>
+    <file name="museutils.js" crc="212726984" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact:phone>index:phone>diy-kits:phone>pickit:phone>rf-module:phone>dtmf-decoder:phone>ir-obstacle-detector:phone>apps:phone>videos:phone>portable-lift:phone>training:phone>docs:phone>contact:phone>robotics:phone>communication:phone>vlsi:phone>wireless:phone>embedded-system:phone>automotive:phone>dsp:phone>android:phone>raspberry-pi:phone>ieee:phone>iot:phone>arduino:phone>pic"/>
     <file name="pie.js" crc="3827607177" ref="index:diy-kits:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:apps:videos:training:docs:portable-lift:contact"/>
     <file name="jquery.musemenu.js" crc="440295907" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact"/>
     <file name="webpro.js" crc="114405901" ref="index"/>
     <file name="musewpslideshow.js" crc="3797706250" ref="index"/>
     <file name="jquery.museoverlay.js" crc="254250306" ref="index"/>
     <file name="touchswipe.js" crc="12843993" ref="index"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact:phone>index:phone>diy-kits:phone>pickit:phone>rf-module:phone>dtmf-decoder:phone>ir-obstacle-detector:phone>apps:phone>videos:phone>portable-lift:phone>training:phone>docs:phone>contact:phone>robotics:phone>communication:phone>vlsi:phone>wireless:phone>embedded-system:phone>automotive:phone>dsp:phone>android:phone>raspberry-pi:phone>ieee:phone>iot:phone>arduino:phone>pic"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:diy-kits:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:contact"/>
+    <file name="museredirect.js" crc="3986430445" ref="index"/>
   </folder>
   <folder name="images">
     <file name="pasted image 980x340.jpg" crc="4144838631" ref="index"/>
@@ -51,7 +106,7 @@
     <file name="z_pi-lanka_1.jpg" crc="4051445596" ref="index"/>
     <file name="pocket-drone.jpg" crc="106568236" ref="index"/>
     <file name="u5350-full.png" crc="161944507" ref="index"/>
-    <file name="fnl2small.png" crc="163864189" ref="index:diy-kits:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
+    <file name="fnl2small.png" crc="163864189" ref="index:diy-kits:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:phone>index"/>
     <file name="adinovus3.png" crc="4159277168" ref="index:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:contact"/>
     <file name="balan logo 01(1).swf" crc="3853438900" ref="index"/>
     <file name="u5506-full.png" crc="3660177" ref="diy-kits:pickit:rf-module:dtmf-decoder:ir-obstacle-detector"/>
@@ -85,29 +140,29 @@
     <file name="u1763-a-full.png" crc="4226363845" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-a-full.png" crc="248471538" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
   </folder>
-  <file name="index.html" crc="3941232340" mt="1410866906756" redirect="true"/>
-  <file name="diy-kits.html" crc="4071860933" mt="1410865649298" redirect="true"/>
-  <file name="apps.html" crc="4022289081" mt="1410865610855" redirect="true"/>
-  <file name="videos.html" crc="130299931" mt="1410865610859" redirect="true"/>
-  <file name="training.html" crc="46603345" mt="1410865610862" redirect="true"/>
-  <file name="docs.html" crc="120047946" mt="1410865610865" redirect="true"/>
-  <file name="robotics.html" crc="514769962" mt="1410867005765" redirect="true"/>
-  <file name="communication.html" crc="420486244" mt="1410867005769" redirect="true"/>
-  <file name="raspberry-pi.html" crc="3980086885" mt="1410867005773" redirect="true"/>
-  <file name="android.html" crc="217230571" mt="1410867005776" redirect="true"/>
-  <file name="dsp.html" crc="4039602547" mt="1410867005779" redirect="true"/>
-  <file name="automotive.html" crc="43391888" mt="1410867005782" redirect="true"/>
-  <file name="embedded-system.html" crc="3818900310" mt="1410867005785" redirect="true"/>
-  <file name="wireless.html" crc="3871605046" mt="1410867005788" redirect="true"/>
-  <file name="vlsi.html" crc="189666808" mt="1410867005791" redirect="true"/>
-  <file name="ieee.html" crc="187631826" mt="1410867005794" redirect="true"/>
-  <file name="iot.html" crc="498010364" mt="1410867005797" redirect="true"/>
-  <file name="arduino.html" crc="4294087965" mt="1410867005801" redirect="true"/>
-  <file name="portable-lift.html" crc="166999081" mt="1410865610906" redirect="true"/>
-  <file name="pic.html" crc="3885367012" mt="1410867005805" redirect="true"/>
-  <file name="pickit.html" crc="431291170" mt="1410865649307" redirect="true"/>
-  <file name="rf-module.html" crc="51711070" mt="1410865649315" redirect="true"/>
-  <file name="dtmf-decoder.html" crc="3910644248" mt="1410865649317" redirect="true"/>
-  <file name="ir-obstacle-detector.html" crc="374948891" mt="1410865649319" redirect="true"/>
-  <file name="contact.html" crc="142196153" mt="1410865610915" redirect="true"/>
+  <file name="index.html" crc="325126698" mt="1410867501829" redirect="true"/>
+  <file name="diy-kits.html" crc="4046669132" mt="1410867501982" redirect="true"/>
+  <file name="apps.html" crc="4239210798" mt="1410867502626" redirect="true"/>
+  <file name="videos.html" crc="129931779" mt="1410867502771" redirect="true"/>
+  <file name="training.html" crc="234531316" mt="1410867503029" redirect="true"/>
+  <file name="docs.html" crc="172215375" mt="1410867503159" redirect="true"/>
+  <file name="robotics.html" crc="281646357" mt="1410867503419" redirect="true"/>
+  <file name="communication.html" crc="507866349" mt="1410867503569" redirect="true"/>
+  <file name="raspberry-pi.html" crc="183124188" mt="1410867504503" redirect="true"/>
+  <file name="android.html" crc="344979457" mt="1410867504374" redirect="true"/>
+  <file name="dsp.html" crc="86991418" mt="1410867504237" redirect="true"/>
+  <file name="automotive.html" crc="314377030" mt="1410867504107" redirect="true"/>
+  <file name="embedded-system.html" crc="4088714112" mt="1410867503956" redirect="true"/>
+  <file name="wireless.html" crc="380598874" mt="1410867812152" redirect="true"/>
+  <file name="vlsi.html" crc="3923409008" mt="1410867503698" redirect="true"/>
+  <file name="ieee.html" crc="4120901695" mt="1410867504647" redirect="true"/>
+  <file name="iot.html" crc="451235370" mt="1410867504777" redirect="true"/>
+  <file name="arduino.html" crc="331439800" mt="1410867504907" redirect="true"/>
+  <file name="portable-lift.html" crc="105752469" mt="1410867502900" redirect="true"/>
+  <file name="pic.html" crc="4277543421" mt="1410867505037" redirect="true"/>
+  <file name="pickit.html" crc="256084624" mt="1410867502113" redirect="true"/>
+  <file name="rf-module.html" crc="4114422577" mt="1410867502238" redirect="true"/>
+  <file name="dtmf-decoder.html" crc="4224017358" mt="1410867502368" redirect="true"/>
+  <file name="ir-obstacle-detector.html" crc="3948170128" mt="1410867502497" redirect="true"/>
+  <file name="contact.html" crc="5188065" mt="1410867503287" redirect="true"/>
 </manifest>

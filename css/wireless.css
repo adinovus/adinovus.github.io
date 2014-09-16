@@ -1,7 +1,7 @@
 .version.wireless /* version checker */
 {
-	color: #000014;
-	background-color: #770D26;
+	color: #0000FE;
+	background-color: #237A2F;
 }
 
 .html
@@ -13,31 +13,44 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 663.9099999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F8F8F8;
-	padding-bottom: 226px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 226px;
+}
+
+#pu5607
+{
+	width: 0.01px;
+	margin-left: -11px;
 }
 
 #u5607
 {
 	z-index: 2;
 	width: 971px;
+	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-top: -37px;
-	left: -12px;
+	margin-top: -1px;
+	left: -1px;
 }
 
 #pu4834
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: -20px;
-	margin-left: 9px;
+	margin-top: 16px;
+	margin-left: 20px;
 }
 
 #u4834
@@ -66,8 +79,8 @@
 {
 	z-index: 7;
 	margin-right: -10000px;
-	margin-top: -20px;
-	left: 12px;
+	margin-top: 16px;
+	left: 23px;
 }
 
 #u5659
@@ -75,8 +88,8 @@
 	z-index: 9;
 	width: 654px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 274px;
+	margin-top: 37px;
+	left: 285px;
 }
 
 #menuu5675
@@ -84,8 +97,8 @@
 	z-index: 11;
 	width: 474px;
 	margin-right: -10000px;
-	margin-top: 157px;
-	left: 411px;
+	margin-top: 193px;
+	left: 422px;
 }
 
 #u5690
@@ -295,13 +308,20 @@
 	left: 0px;
 }
 
+#pu5667
+{
+	width: 0.01px;
+	margin-left: -14px;
+	margin-top: 29px;
+}
+
 #u5667
 {
 	z-index: 62;
 	width: 219px;
 	margin-right: -10000px;
-	margin-top: 229px;
-	left: -15px;
+	margin-top: -1px;
+	left: -1px;
 	padding: 22px 10px 10.299999999999955px;
 }
 
@@ -574,6 +594,14 @@
 	left: 0px;
 }
 
+#pu1974-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	margin-left: 312px;
+}
+
 #u1974-4
 {
 	z-index: 168;
@@ -583,9 +611,6 @@
 	line-height: 29px;
 	font-weight: bold;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 110px;
-	left: 302px;
 }
 
 #u1975-27
@@ -593,10 +618,9 @@
 	z-index: 172;
 	width: 554px;
 	min-height: 549px;
+	margin-left: 52px;
+	margin-top: 40px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 183px;
-	left: 354px;
 }
 
 #u1975-2,#u1975-4,#u1975-6,#u1975-8,#u1975-10,#u1975-12,#u1975-14,#u1975-16,#u1975-18,#u1975-20,#u1975-21,#u1975-22,#u1975-23,#u1975-24
