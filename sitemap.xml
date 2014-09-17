@@ -253,6 +253,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://adinovus.com/images/u6135-full.png</loc>
+    <lastmod>2014-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://adinovus.com/index.html</loc>
     <lastmod>2014-09-17</lastmod>
     <changefreq>weekly</changefreq>

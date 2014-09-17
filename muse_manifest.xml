@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410935900778">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410938443373">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="462663897" ref="index"/>
+    <file name="index.css" crc="404300738" ref="index"/>
     <file name="master_c-master.css" crc="4160718395" ref="ir-obstacle-detector:dtmf-decoder:pickit:rf-module:diy-kits"/>
     <file name="master_b-master.css" crc="456287226" ref="raspberry-pi:communication:android:robotics:iot:arduino:vlsi:ieee:wireless:embedded-system:pic:dsp:automotive"/>
     <file name="master_d-master.css" crc="247762354" ref="training:contact:docs:videos:apps:portable-lift:wireless:iot:communication:embedded-system:pic:robotics:automotive:dsp:vlsi:raspberry-pi:android:arduino:ieee"/>
@@ -51,7 +51,7 @@
     <file name="content-marketing-technology-strategic-map.jpg" crc="4084801171" ref="index:home"/>
     <file name="z_pi-lanka_1.jpg" crc="4051445596" ref="index:home"/>
     <file name="pocket-drone.jpg" crc="4246163013" ref="index:home"/>
-    <file name="u5350-full.png" crc="3840241965" ref="index:home"/>
+    <file name="u5350-full.png" crc="3840241965" ref="home"/>
     <file name="fnl2small.png" crc="163864189" ref="index:diy-kits:pickit:rf-module:dtmf-decoder:ir-obstacle-detector:home"/>
     <file name="adinovus3.png" crc="4159277168" ref="index:apps:videos:training:docs:robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:portable-lift:pic:contact:home"/>
     <file name="balan logo 01(1).swf" crc="3853438900" ref="index:home"/>
@@ -85,9 +85,10 @@
     <file name="u1779-a-full.png" crc="4116595452" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1763-a-full.png" crc="4116595452" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-a-full.png" crc="529762934" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
-    <file name="favicon.ico" crc="3890364875" ref="home"/>
+    <file name="favicon.ico" crc="3890364875" ref="home:index"/>
+    <file name="u6135-full.png" crc="3840241965" ref="index"/>
   </folder>
-  <file name="index.html" crc="312840207" mt="1410935829459" redirect="true"/>
+  <file name="index.html" crc="3848482943" mt="1410938424676" redirect="true"/>
   <file name="diy-kits.html" crc="4157071305" mt="1410935502705" redirect="true"/>
   <file name="apps.html" crc="4274884038" mt="1410935502748" redirect="true"/>
   <file name="videos.html" crc="71537681" mt="1410935502751" redirect="true"/>
