@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410890591807">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410935168592">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="4146110980" ref="index"/>
@@ -84,30 +84,31 @@
     <file name="u1779-a-full.png" crc="4116595452" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1763-a-full.png" crc="4116595452" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
     <file name="u1930-a-full.png" crc="529762934" ref="robotics:communication:raspberry-pi:android:dsp:automotive:embedded-system:wireless:vlsi:ieee:iot:arduino:pic"/>
+    <file name="favicon.ico" crc="3890364875" ref="index"/>
   </folder>
-  <file name="index.html" crc="337049256" mt="1410890380468" redirect="true"/>
-  <file name="diy-kits.html" crc="410191708" mt="1410889592569" redirect="true"/>
-  <file name="apps.html" crc="4138350369" mt="1410889570119" redirect="true"/>
-  <file name="videos.html" crc="4220472202" mt="1410889570107" redirect="true"/>
-  <file name="training.html" crc="4085542112" mt="1410889570076" redirect="true"/>
-  <file name="docs.html" crc="4144521623" mt="1410889570070" redirect="true"/>
-  <file name="robotics.html" crc="4288350170" mt="1410889570055" redirect="true"/>
-  <file name="communication.html" crc="519289070" mt="1410889570048" redirect="true"/>
-  <file name="raspberry-pi.html" crc="127112260" mt="1410889569999" redirect="true"/>
-  <file name="android.html" crc="380501937" mt="1410889570007" redirect="true"/>
-  <file name="dsp.html" crc="4007386882" mt="1410889570013" redirect="true"/>
-  <file name="automotive.html" crc="3896002572" mt="1410889570020" redirect="true"/>
-  <file name="embedded-system.html" crc="4190148620" mt="1410889570026" redirect="true"/>
-  <file name="wireless.html" crc="4160630633" mt="1410889570034" redirect="true"/>
-  <file name="vlsi.html" crc="286344866" mt="1410889570042" redirect="true"/>
-  <file name="ieee.html" crc="281349580" mt="1410889569993" redirect="true"/>
-  <file name="iot.html" crc="133192614" mt="1410889569986" redirect="true"/>
-  <file name="arduino.html" crc="4127429242" mt="1410889569979" redirect="true"/>
-  <file name="portable-lift.html" crc="4289449311" mt="1410889570100" redirect="true"/>
-  <file name="pic.html" crc="4057998290" mt="1410889569972" redirect="true"/>
-  <file name="pickit.html" crc="471937250" mt="1410889592578" redirect="true"/>
-  <file name="rf-module.html" crc="4103604893" mt="1410889592581" redirect="true"/>
-  <file name="dtmf-decoder.html" crc="416918758" mt="1410889592583" redirect="true"/>
-  <file name="ir-obstacle-detector.html" crc="3787405418" mt="1410889592585" redirect="true"/>
-  <file name="contact.html" crc="431092716" mt="1410889570063" redirect="true"/>
+  <file name="index.html" crc="4058767035" mt="1410935121859" redirect="true"/>
+  <file name="diy-kits.html" crc="457386535" mt="1410935122536" redirect="true"/>
+  <file name="apps.html" crc="448374793" mt="1410935122559" redirect="true"/>
+  <file name="videos.html" crc="3859812197" mt="1410935122561" redirect="true"/>
+  <file name="training.html" crc="4079985721" mt="1410935122562" redirect="true"/>
+  <file name="docs.html" crc="3822170158" mt="1410935122564" redirect="true"/>
+  <file name="robotics.html" crc="90024451" mt="1410935122626" redirect="true"/>
+  <file name="communication.html" crc="3915156880" mt="1410935122629" redirect="true"/>
+  <file name="raspberry-pi.html" crc="534627196" mt="1410935122630" redirect="true"/>
+  <file name="android.html" crc="3761179203" mt="1410935122632" redirect="true"/>
+  <file name="dsp.html" crc="323788830" mt="1410935122634" redirect="true"/>
+  <file name="automotive.html" crc="4053988826" mt="1410935122637" redirect="true"/>
+  <file name="embedded-system.html" crc="261291459" mt="1410935122639" redirect="true"/>
+  <file name="wireless.html" crc="416177379" mt="1410935122640" redirect="true"/>
+  <file name="vlsi.html" crc="4270537199" mt="1410935122642" redirect="true"/>
+  <file name="ieee.html" crc="233337281" mt="1410935122644" redirect="true"/>
+  <file name="iot.html" crc="3963359440" mt="1410935122647" redirect="true"/>
+  <file name="arduino.html" crc="222597009" mt="1410935122649" redirect="true"/>
+  <file name="portable-lift.html" crc="4188585071" mt="1410935122590" redirect="true"/>
+  <file name="pic.html" crc="367694829" mt="1410935122651" redirect="true"/>
+  <file name="pickit.html" crc="348509743" mt="1410935122543" redirect="true"/>
+  <file name="rf-module.html" crc="4083469331" mt="1410935122545" redirect="true"/>
+  <file name="dtmf-decoder.html" crc="3978772801" mt="1410935122547" redirect="true"/>
+  <file name="ir-obstacle-detector.html" crc="3838466175" mt="1410935122548" redirect="true"/>
+  <file name="contact.html" crc="376752989" mt="1410935122595" redirect="true"/>
 </manifest>
