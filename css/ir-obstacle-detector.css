@@ -1,7 +1,7 @@
 .version.ir_obstacle_detector /* version checker */
 {
-	color: #000016;
-	background-color: #FF2448;
+	color: #000003;
+	background-color: #CB3AA7;
 }
 
 .html
@@ -567,8 +567,8 @@
 	z-index: 144;
 	width: 269px;
 	min-height: 37px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }

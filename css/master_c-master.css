@@ -96,8 +96,8 @@
 
 #u5730-4
 {
-	font-size: 14px;
 	color: #000000;
+	font-size: 14px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
@@ -340,9 +340,9 @@
 
 #u5502-4
 {
+	line-height: 30px;
 	color: #00C700;
 	font-size: 25px;
-	line-height: 30px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
@@ -391,8 +391,8 @@
 
 #u2598-4
 {
-	font-size: 14px;
 	color: #181111;
+	font-size: 14px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;

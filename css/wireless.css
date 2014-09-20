@@ -1,7 +1,7 @@
 .version.wireless /* version checker */
 {
-	color: #0000F6;
-	background-color: #D839F8;
+	color: #00001D;
+	background-color: #323018;
 }
 
 .html
@@ -607,8 +607,8 @@
 	z-index: 168;
 	width: 153px;
 	min-height: 33px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }

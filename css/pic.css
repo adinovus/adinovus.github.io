@@ -1,7 +1,7 @@
 .version.pic /* version checker */
 {
-	color: #000009;
-	background-color: #11D461;
+	color: #0000E9;
+	background-color: #740CE3;
 }
 
 .html
@@ -606,8 +606,8 @@
 	z-index: 168;
 	width: 219px;
 	min-height: 24px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }

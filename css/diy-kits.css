@@ -1,7 +1,7 @@
 .version.diy_kits /* version checker */
 {
-	color: #0000FA;
-	background-color: #C5A4D2;
+	color: #0000EC;
+	background-color: #57AD10;
 }
 
 .html
@@ -701,8 +701,8 @@
 	width: 526px;
 	min-height: 257px;
 	line-height: 20px;
-	font-size: 14px;
 	color: #000000;
+	font-size: 14px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 314px;
 	margin-top: 55px;

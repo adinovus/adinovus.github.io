@@ -1,7 +1,7 @@
 .version.dtmf_decoder /* version checker */
 {
-	color: #0000F7;
-	background-color: #71987B;
+	color: #0000ED;
+	background-color: #8F1455;
 }
 
 .html
@@ -568,8 +568,8 @@
 	z-index: 144;
 	width: 321px;
 	min-height: 31px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }

@@ -1,7 +1,7 @@
 .version.rf_module /* version checker */
 {
-	color: #000010;
-	background-color: #91F844;
+	color: #0000E1;
+	background-color: #39A082;
 }
 
 .html
@@ -568,8 +568,8 @@
 	z-index: 144;
 	width: 316px;
 	min-height: 28px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }

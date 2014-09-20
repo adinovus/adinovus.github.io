@@ -1,7 +1,7 @@
 .version.raspberry_pi /* version checker */
 {
-	color: #0000E7;
-	background-color: #BCC3FD;
+	color: #0000FA;
+	background-color: #0E0EF5;
 }
 
 .html
@@ -607,8 +607,8 @@
 	z-index: 168;
 	width: 248px;
 	min-height: 47px;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-weight: bold;
 	position: relative;
 }
