@@ -117,8 +117,8 @@
 
 #u5694-4
 {
-	color: #000000;
 	font-size: 14px;
+	color: #000000;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
@@ -271,7 +271,7 @@
 
 #pu5691.MuseMenuActive ._u5691.f3s_top,#pu5677.MuseMenuActive ._u5677.f3s_top,#pu5686.MuseMenuActive ._u5686.f3s_top,#pu5698.MuseMenuActive ._u5698.f3s_top
 {
-	background-image: url("../images/u5231-a-full.png");
+	background-image: url("../images/u5691-a-full.png");
 	background-position: left top;
 }
 
@@ -338,7 +338,7 @@
 
 #pu5705.MuseMenuActive ._u5705.f3s_top
 {
-	background-image: url("../images/u5741-a-full.png");
+	background-image: url("../images/u5705-a-full.png");
 	background-position: left top;
 }
 

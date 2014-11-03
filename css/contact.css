@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000E2;
-	background-color: #69A1DD;
+	color: #0000F5;
+	background-color: #E5E572;
 }
 
 .html
@@ -59,6 +59,18 @@
 	margin-right: -10000px;
 }
 
+._u4834.f3s_top
+{
+	height: 123px;
+	width: 931px;
+}
+
+#pu4834:hover ._u4834.f3s_top
+{
+	height: 123px;
+	width: 931px;
+}
+
 #pu4834:hover #u4834
 {
 	width: 931px;
@@ -66,12 +78,6 @@
 	margin-top: 0px;
 	left: 0px;
 	margin-left: 0px;
-}
-
-._u4834.f3s_top,#pu4834:hover ._u4834.f3s_top
-{
-	height: 123px;
-	width: 931px;
 }
 
 #u5592
@@ -359,7 +365,7 @@
 {
 	width: 0.01px;
 	margin-left: 152px;
-	margin-top: 49px;
+	margin-top: 64px;
 }
 
 #u5434
@@ -368,38 +374,37 @@
 	width: 52px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
 }
 
-#u5440-12
+#u5440-8
 {
 	z-index: 70;
-	width: 142px;
-	min-height: 85px;
+	width: 177px;
+	min-height: 57px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
 	left: 70px;
 }
 
 #u5457
 {
-	z-index: 96;
+	z-index: 92;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
 	left: 409px;
 }
 
 #u5473-4
 {
-	z-index: 100;
+	z-index: 96;
 	width: 189px;
 	min-height: 9px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 30px;
+	margin-top: 15px;
 	left: 473px;
 }
 
@@ -407,12 +412,12 @@
 {
 	width: 0.01px;
 	margin-left: 156px;
-	margin-top: -7px;
+	margin-top: -1px;
 }
 
 #u5443
 {
-	z-index: 82;
+	z-index: 78;
 	width: 48px;
 	position: relative;
 	margin-right: -10000px;
@@ -421,7 +426,7 @@
 
 #u5449-6
 {
-	z-index: 84;
+	z-index: 80;
 	width: 177px;
 	min-height: 22px;
 	position: relative;
@@ -432,7 +437,7 @@
 
 #u5462
 {
-	z-index: 98;
+	z-index: 94;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -442,7 +447,7 @@
 
 #u5474-4
 {
-	z-index: 104;
+	z-index: 100;
 	width: 154px;
 	min-height: 17px;
 	position: relative;
@@ -460,7 +465,7 @@
 
 #u5451
 {
-	z-index: 94;
+	z-index: 90;
 	width: 33px;
 	position: relative;
 	margin-right: -10000px;
@@ -468,7 +473,7 @@
 
 #u5450-4
 {
-	z-index: 90;
+	z-index: 86;
 	width: 220px;
 	min-height: 27px;
 	position: relative;
